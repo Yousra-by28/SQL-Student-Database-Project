@@ -1,0 +1,22 @@
+INSERT INTO STUDENT
+VALUES 
+(1,'Benali','Amine',20,'Alger',14.50,15,18),
+(2,'Belkacem','Sara',21,'Boumerdès',8.20,2,7.5),
+(3,'Boudiaf','Yousra',22,'Blida',16.8,15,17.5),
+(4,'Haddad','Ahmed',24,'Oran',9.4,4,10.5),
+(5,'Mansouri','Lina',20,'Constantine',13.9,8,15.5),
+(6,'Cherif','Mohamed',20,'Batna',8.00,7,9),
+(7,'Rahmani','Aya',20,'Alger',17.50,18,17),
+(8,'Meziane','Ikram',21,'Béjaia',7.00,6,8),
+(9,'Saidi','Anis',23,'Blida',14.50,15,14),
+(10,'Khelifi','Yacine',25,'Sétif',10.50,10,11),
+(11,'Hamidi','Imane',20,'Constantine',15.50,16,15),
+(12,'Zerouki','Sofiane',21,'Msila',8.50,9,8),
+(13,'Ait ALi','Chahinez',19,'Tizi Ouzou',13.50,14,13),
+(14,'Benaissa','Rayan',21,'Boumerdès',6.00,5,7),
+(15,'Ouali','Meriem',20,'Oran',18.00,18.5,19.5),
+(16,'Kaci','Walid',23,'Skikda',10.50,5.5,14),
+(17,'Ferhat','Islam',19,'Alger',8.54,2.5,9.25),
+(18,'Bensalem','Nour',19,'Msila',15.24,14.75,15),
+(19,'Touati','Zakaria',21,'Jijel',11.25,3.75,14),
+(20,'Djelloul','Fatima',21,'Batna',18.01,16.75,20);

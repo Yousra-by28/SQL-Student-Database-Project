@@ -1,0 +1,7 @@
+-- Create DATABASE
+CREATE DATABASE StudentDB;
+GO
+
+-- Use DATABASE
+USE StudentDB;
+GO
